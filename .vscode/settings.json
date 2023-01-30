@@ -1,4 +1,7 @@
 {
     "ecl.launchConfiguration": "not found",
-    "ecl.targetCluster": {}
+    "ecl.targetCluster": {},
+    "cSpell.words": [
+        "tflearn"
+    ]
 }
